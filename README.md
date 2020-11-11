@@ -1,2 +1,2 @@
-# Working-with-Ligthing-in-Unity
+# Working-with-Lighting-in-Unity
  Unity Live Session
